@@ -70,3 +70,13 @@ profile-picture{
     display:flex;
     flex-wrap:wrap;
 }
+
+.cv-dwonload-link{
+    border: 2px solid cornflowerblue;
+    color:black;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 26px;
+}
