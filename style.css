@@ -51,10 +51,22 @@ header li{
 }
 
 .circle{
-        border-radius: 50%;
+     border-radius: 50%;
 }
 
 profile-picture{
     width: 180px;
     height: 180px;
+}
+
+.hobbies{
+    list-style:none;
+    padding: 0;
+    display: flex;
+}
+
+.hobbies li{
+    width:50%;
+    flex-wrap:wrap;
+    display:flex''
 }
