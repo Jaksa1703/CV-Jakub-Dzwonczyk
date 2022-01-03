@@ -12,10 +12,6 @@ h2{
     font-size: 28px;
 }
 
-h3{
-    margin-top5px;
-}
-
 span{
     color: grey;
 }
@@ -71,10 +67,6 @@ profile-picture{
 
 .hobbies li{
     width:50%;
+    display:flex;
     flex-wrap:wrap;
-    align-items:flex-start;
-}
-
-.hobbies div{
-    margin-left:20px;
 }
