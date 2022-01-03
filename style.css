@@ -53,16 +53,22 @@ header li{
     background-color: cornflowerblue;
     margin-right: 10px;
     padding: 8px;
-    vertical-align: middle;
 }
+
+.hobby-icon{
+    width:16px;
+    height: 16px;
+    background-color: white;
+    margin-right: 10px;
+    padding: 8px;
 
 .circle{
      border-radius: 50%;
 }
 
 profile-picture{
-    width: 180px;
-    height: 180px;
+    width: 130px;
+    height: 130px;
 }
 
 .hobbies{
@@ -75,6 +81,7 @@ profile-picture{
     width:50%;
     display:flex;
     flex-wrap:wrap;
+    align-items: center;
 }
 
 .cv-dwonload-link{
