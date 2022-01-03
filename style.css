@@ -17,18 +17,24 @@ span{
 }
 
 
-
-header,section{
-    padding: 10px 60px 20px;
+.container{
+    box-shadow: 0 0 20 grey;
     background-color: white;
     width: 960px;
     margin: 0 auto;
+}
+
+
+header,section{
+    padding: 10px 60px 20px;
+    
 }
 
 header{
     display: flex;
     align-items: center; 
     justify-content: space-between;
+    padding-top:60px;
     
 }
 
@@ -79,7 +85,7 @@ profile-picture{
     display: inline-block;
     margin-top: 20px;
     border-radius: 26px;
-    transition: background-color 0.5s, color 0.5s; 
+    transition: background-color 0.5s; 
 }
 
 .cv-dwonload-link:hover{
@@ -96,3 +102,4 @@ profile-picture{
 .cv-dwonload-link:active{
     text-decoration: underline;
 }
+
