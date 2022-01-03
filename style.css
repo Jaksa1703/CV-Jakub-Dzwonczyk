@@ -56,6 +56,16 @@ header li{
     vertical-align: middle;
 }
 
+
+.hobby-icon{
+    width:16px;
+    height: 16px;
+    background-color: cornflowerblue;
+    margin-right: 10px;
+    padding: 8px;
+    vertical-align: middle;
+}
+
 .circle{
      border-radius: 50%;
 }
