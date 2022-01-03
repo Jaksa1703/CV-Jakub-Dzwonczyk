@@ -68,5 +68,5 @@ profile-picture{
 .hobbies li{
     width:50%;
     flex-wrap:wrap;
-    display:flex''
+    display:flex;
 }
