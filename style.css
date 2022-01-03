@@ -61,8 +61,8 @@ header li{
 }
 
 .profile-picture{
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
 }
 
 .hobbies{
@@ -75,6 +75,7 @@ header li{
     width:50%;
     display:flex;
     flex-wrap:wrap;
+    background-color: white;
 }
 
 .cv-dwonload-link{
