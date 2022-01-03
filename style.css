@@ -12,6 +12,10 @@ h2{
     font-size: 28px;
 }
 
+h3{
+    margin-top5px;
+}
+
 span{
     color: grey;
 }
@@ -69,4 +73,8 @@ profile-picture{
     width:50%;
     flex-wrap:wrap;
     align-items:flex-start;
+}
+
+.hobbies div{
+    margin-left:20px;
 }
