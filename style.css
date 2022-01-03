@@ -60,9 +60,9 @@ header li{
      border-radius: 50%;
 }
 
-profile-picture{
-    width: 180px;
-    height: 180px;
+.profile-picture{
+    width: 115px;
+    height: 115px;
 }
 
 .hobbies{
