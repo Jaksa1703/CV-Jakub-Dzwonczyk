@@ -53,7 +53,6 @@ header li{
     background-color: cornflowerblue;
     margin-right: 10px;
     padding: 8px;
-    vertical-align: middle;
 }
 
 .circle{
@@ -76,6 +75,7 @@ header li{
     display:flex;
     flex-wrap:wrap;
     background-color: white;
+    align-items: center;
 }
 
 .cv-dwonload-link{
