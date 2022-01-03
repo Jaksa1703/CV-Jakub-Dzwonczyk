@@ -71,8 +71,8 @@ header li{
 }
 
 .profile-picture{
-    width: 20px;
-    height: 20px;
+    width: 80px;
+    height: 80px;
 }
 
 .hobbies{
@@ -82,7 +82,7 @@ header li{
 }
 
 .hobbies li{
-    width:50%;
+    width:25%;
     display:flex;
     flex-wrap:wrap;
 }
