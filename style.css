@@ -23,7 +23,7 @@ main{
 .container{
     box-shadow: 0 0 20 grey;
     background-color: white;
-    width: 960px;
+    width: 980px;
     margin: 0 auto;
 }
 
@@ -34,7 +34,7 @@ header,section{
 }
 
 header{
-    box-shadow: #0000002b
+    box-shadow: #0000002b;
     display: flex;
     align-items: center; 
     justify-content: space-between;
