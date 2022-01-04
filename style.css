@@ -1,7 +1,7 @@
 body{
     font-family:Arial;
     background-color: aliceblue;
-    padding: 40px 0px;
+    padding: 40px 114px;
 }
 
 h1{
@@ -31,10 +31,12 @@ header,section{
 }
 
 header{
+    box-shadow: #0000002b
     display: flex;
     align-items: center; 
     justify-content: space-between;
     padding-top:60px;
+    background-color: white;
     
 }
 
