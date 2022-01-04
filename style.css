@@ -87,6 +87,7 @@ header li{
     width:25%;
     display:flex;
     flex-wrap:wrap;
+    background-color:white;
 }
 
 .cv-dwonload-link{
