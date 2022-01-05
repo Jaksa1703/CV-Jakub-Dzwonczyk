@@ -36,6 +36,7 @@ header,section{
 header{
     box-shadow: #0000002b;
     display: flex;
+    flex-wrap:wrap;
     align-items: center; 
     justify-content: space-between;
     padding-top:60px;
