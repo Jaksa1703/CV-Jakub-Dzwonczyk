@@ -1,5 +1,5 @@
 body{
-    font-family:Arial;
+    font-family:Arial, sans-serif;
     background-color: aliceblue;
     padding: 40px 114px;
 }
@@ -21,16 +21,15 @@ main{
 }
 
 .container{
-    box-shadow: 0 0 20 grey;
+    box-shadow: 0 0 20px grey;
     background-color: white;
-    width: 980px;
+    max-width: 980px;
     margin: 0 auto;
 }
 
 
 header,section{
     padding: 10px 60px 20px;
-    
 }
 
 header{
@@ -59,16 +58,13 @@ header li{
     background-color: cornflowerblue;
     margin-right: 10px;
     padding: 8px;
-    vertical-align: middle;
 }
-
 
 .hobby-icon{
     width:16px;
     height: 16px;
     margin-right: 10px;
     padding: 8px;
-    vertical-align: middle;
 }
 
 .circle{
